@@ -4,7 +4,7 @@ Softvare:
 IDE: 
 1. STM32IDE  Version: 1.11.2     
 2. FreeRTOS + HAL
-
+![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/structure%20of%20project.png)
 
 HARDWARE:
 Parts:
