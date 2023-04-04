@@ -30,3 +30,5 @@ Clock was created based on STB32f103C8t microcontroller. Screen was created from
 ![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/2.jpg)
 ![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/3.jpg)
 
+Main 3d. sketchup.com
+![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/main_3D.png)
