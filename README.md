@@ -4,7 +4,6 @@ Softvare:
 IDE: 
 1. STM32IDE  Version: 1.11.2     
 2. FreeRTOS + HAL
-![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/structure%20of%20project.png)
 
 HARDWARE:
 Parts:
@@ -23,6 +22,9 @@ Clock was created based on STB32f103C8t microcontroller. Screen was created from
 ![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/6.jpg)
 ![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/7.jpg)
 ![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/8.jpg)
+
+![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/structure%20of%20project.png)
+
 ![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/9.jpg)
 ![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/1.jpg)
 ![alt text](https://github.com/OlegDemk/STM32F103_FreeRTOS_RGB_LEDs_Clock/blob/main/Photos/2.jpg)
